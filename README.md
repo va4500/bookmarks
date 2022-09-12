@@ -44,5 +44,7 @@ IOS XE REST API https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/r
 
 Unofficial ACI Guide https://unofficialaciguide.com/category/all/
 
+https://networkgeekstuff.com/networking/mini-update-network-topology-visualization-2-using-snmp-as-data-source-and-enhanced-visuals/
+
 # ServiceNow
 

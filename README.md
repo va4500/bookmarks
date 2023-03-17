@@ -38,6 +38,14 @@ https://gns3vault.com
 
 ARIN JSON  https://rdap.arin.net/registry/ip/8.0.0.0
 
+How to Setup QEMU Output to Console  https://fadeevab.com/how-to-setup-qemu-output-to-console-and-automate-using-shell-script/#2earlybootmessagesinthehostterminal
+
+pfSense https://docs.netgate.com/pfsense/en/latest/general/index.html
+
+OPNsense Docs  https://docs.opnsense.org/
+
+IPFire  https://www.ipfire.org/features
+
 # ENARSI related:
 OSPFv3 additional LSA types https://www.networkfuntimes.com/ospfv3-the-new-lsa-types-in-ipv6-ospf/
 

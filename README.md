@@ -32,6 +32,12 @@ Draw-the-Net http://go.drawthe.net/
 
 Oracle Public IP Ranges https://docs.oracle.com/en-us/iaas/tools/public_ip_ranges.json
 
+Expert Redistribution 2  https://gns3vault.com/redistribution/expert-redistribution-2
+
+https://gns3vault.com
+
+ARIN JSON  https://rdap.arin.net/registry/ip/8.0.0.0
+
 # ENARSI related:
 OSPFv3 additional LSA types https://www.networkfuntimes.com/ospfv3-the-new-lsa-types-in-ipv6-ospf/
 

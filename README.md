@@ -8,7 +8,15 @@ https://github.com/vincentbernat/network-lab/tree/master/lab-vxlan
 
 https://docs.vyos.io
 
+L3VPN EVPN with VyOS  https://docs.vyos.io/en/sagitta/configexamples/autotest/L3VPN_EVPN/L3VPN_EVPN.html
 
+Daniel Dib  "Advertising IPs In EVPN Route Type 2" https://lostintransit.se/2024/01/05/advertising-ips-in-evpn-route-type-2/
+
+Richard WM Jones  NBDKit  https://rwmj.wordpress.com/2022/08/13/nbdkit-for-macos/
+
+Pim Van Pelt "BGP Policy" https://ipng.ch/s/articles/2021/11/14/case-study-bgp-routing-policy/
+
+Pim Van Pelt VPP  https://ipng.ch/s/articles/2022/03/27/vpp-configuration-part1/
 
 https://man.openbsd.org/
 

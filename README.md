@@ -18,6 +18,8 @@ Pim Van Pelt "BGP Policy" https://ipng.ch/s/articles/2021/11/14/case-study-bgp-r
 
 Pim Van Pelt VPP  https://ipng.ch/s/articles/2022/03/27/vpp-configuration-part1/
 
+Fun with veth-devices, Linux bridges and VLANs in unnamed Linux network namespaces  https://linux-blog.anracom.com/2017/10/30/fun-with-veth-devices-linux-bridges-and-vlans-in-unnamed-linux-network-namespaces-i/
+
 https://man.openbsd.org/
 
 https://www.openbsd.org/plus.html

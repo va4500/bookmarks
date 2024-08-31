@@ -26,6 +26,8 @@ Proxmox VE Documentation Index  https://pve.proxmox.com/pve-docs/index.html
 
 eBPF Documentation  https://ebpf.io/what-is-ebpf/
 
+LinkedIn Learning Python by Ryan Mitchell  https://github.com/LinkedInLearning/python-ET-4314028/blob/main/exercise_files/02_01_Basic_Data_Types.ipynb
+
 https://man.openbsd.org/
 
 https://www.openbsd.org/plus.html

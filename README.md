@@ -28,6 +28,10 @@ eBPF Documentation  https://ebpf.io/what-is-ebpf/
 
 LinkedIn Learning Python by Ryan Mitchell  https://github.com/LinkedInLearning/python-ET-4314028/blob/main/exercise_files/02_01_Basic_Data_Types.ipynb
 
+ContainerLab https://containerlab.dev/
+
+NetLab  https://github.com/ipspace/netlab-examples/tree/master/BGP/RR-cluster-id
+
 https://man.openbsd.org/
 
 https://www.openbsd.org/plus.html
@@ -47,6 +51,10 @@ D3.js https://d3js.org/
 ipSpace.net Blog https://blog.ipspace.net/
 
 Draw-the-Net http://go.drawthe.net/
+
+CytoScape  https://cytoscape.org/
+
+D2: Declarative Diagramming  https://d2lang.com/
 
 Oracle Public IP Ranges https://docs.oracle.com/en-us/iaas/tools/public_ip_ranges.json
 
